@@ -2,7 +2,8 @@
   "scripts": {
     "start": "vite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "vite build"
+    "build": "vite build",
+    "dev": "vite"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",
